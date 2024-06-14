@@ -8,7 +8,7 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 <center>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/4F48A8397F604892?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-devops-engineer-expert.png" alt="Azure DevOps Engineer Expert" width="100" height="100"></a><a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/977678304216884B?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" width="100" height="100"></a><a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/AB0829F37921442E?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-cybersecurity-architect-exper.png" alt="Azure Cybersecurity Architect Expert" width="100" height="100"></a>
 </center>
-
+<br>
 <center>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/AC60B90FD780DE2E?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-administrator-associate.png" alt="Azure Administrator Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/BE0BFA3983B667C2?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-network-engineer-associate.png" alt="Azure Network Engineer Associate" width="100" height="100"></a><a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/9D7DF5C09F3B647C?sharingId=B3C1155BC65B52A1" style="margin-right: 10px;"><img src="./azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="100" height="100"></a>
