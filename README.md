@@ -11,7 +11,7 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 <img src="./azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/AB0829F37921442E?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-cybersecurity-architect-exper.png" alt="Azure Cybersecurity Architect Expert" width="100" height="100"></a>
-nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/185BD79D4B1F186B?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-virtual-desktop-specialty.png" alt="Azure Virtual Desktop Specialty" width="100" height="100"></a>
 </div>
