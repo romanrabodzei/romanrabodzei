@@ -6,17 +6,13 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 
 <div align="center">
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/4F48A8397F604892?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-devops-engineer-expert.png" alt="Azure DevOps Engineer Expert" width="100" height="100">
-</a>
+<img src="./azure-devops-engineer-expert.png" alt="Azure DevOps Engineer Expert" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/977678304216884B?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" width="100" height="100">
-</a>
+<img src="./azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/AB0829F37921442E?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-cybersecurity-architect-exper.png" alt="Azure Cybersecurity Architect Expert" width="100" height="100">
-</a>
+<img src="./azure-cybersecurity-architect-exper.png" alt="Azure Cybersecurity Architect Expert" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/185BD79D4B1F186B?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-virtual-desktop-specialty.png" alt="Azure Virtual Desktop Specialty" width="100" height="100">
-</a>
+<img src="./azure-virtual-desktop-specialty.png" alt="Azure Virtual Desktop Specialty" width="100" height="100"></a>
 </div>
 
 <div align="center">
