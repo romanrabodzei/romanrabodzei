@@ -48,7 +48,8 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 </a>
 </div> -->
 
-<br></br>
-## **Support**
+
+## Support
+
 [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a-coffee-green_?logo=buy-me-a-coffee&logoColor=orange&style=plastic)](https://www.buymeacoffee.com/romanrabodzei)&nbsp;&nbsp;&nbsp;
 [![PayPal](https://img.shields.io/badge/support-paypal?style=plastic&logo=paypal&label=PayPal)](https://paypal.me/romanrabodzey)
