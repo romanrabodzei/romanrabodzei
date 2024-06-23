@@ -47,3 +47,8 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
   <img src="./aws-certified-sysops-administrator-associate.png" alt="AWS Certified SysOps Administrator Associate" width="100" height="100">
 </a>
 </div> -->
+
+<br></br>
+## **Support**
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a-coffee-green_?logo=buy-me-a-coffee&logoColor=orange&style=plastic)](https://www.buymeacoffee.com/romanrabodzei)&nbsp;&nbsp;&nbsp;
+[![PayPal](https://img.shields.io/badge/support-paypal?style=plastic&logo=paypal&label=PayPal)](https://paypal.me/romanrabodzey)
