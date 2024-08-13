@@ -40,6 +40,8 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 <img src="./github-foundations.png" alt="GitHub Foundations" width="100" height="100"></a>
 <a href="https://www.credly.com/earner/earned/badge/a1441f60-5e8f-4a3a-b621-13928524a993" style="margin-right: 20px;">
 <img src="./github-actions.png" alt="GitHub Actions" width="100" height="100"></a>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e52ca11f-f53a-4c45-a4e4-9bc37964286c-roman-rabodzei-4bf2d998-974c-479a-832b-c3cf0d7ea750-certificate.pdf" style="margin-right: 20px;">
+<img src="./certified-kubernetes-administrator-cka.webp" alt="CKA" width="100" height="100"></a>
 </div>
 
 <!-- <div align="center">
