@@ -34,18 +34,18 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 </div>
 
 <div align="center">
-<a href="https://www.credly.com/earner/earned/badge/59919c2a-362e-40e6-9b17-727ae7127c17" style="margin-right: 20px;">
+<a href="https://www.credly.com/badges/59919c2a-362e-40e6-9b17-727ae7127c17" style="margin-right: 20px;">
 <img src="./hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate" width="100" height="100"></a>
-<a href="https://www.credly.com/earner/earned/badge/8932b5c9-712d-4c55-943b-801e9509928a" style="margin-right: 20px;">
+<a href="https://www.credly.com/badges/8932b5c9-712d-4c55-943b-801e9509928a" style="margin-right: 20px;">
 <img src="./github-foundations.png" alt="GitHub Foundations" width="100" height="100"></a>
-<a href="https://www.credly.com/earner/earned/badge/a1441f60-5e8f-4a3a-b621-13928524a993" style="margin-right: 20px;">
+<a href="https://www.credly.com/badges/a1441f60-5e8f-4a3a-b621-13928524a993" style="margin-right: 20px;">
 <img src="./github-actions.png" alt="GitHub Actions" width="100" height="100"></a>
-<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e52ca11f-f53a-4c45-a4e4-9bc37964286c-roman-rabodzei-4bf2d998-974c-479a-832b-c3cf0d7ea750-certificate.pdf" style="margin-right: 20px;">
-<img src="./certified-kubernetes-administrator-cka.webp" alt="CKA" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/9d63f183-0027-42d7-a824-ddba56a51fe2" style="margin-right: 20px;">
+<img src="./cka-certified-kubernetes-administrator.png" alt="CKA" width="100" height="100"></a>
 </div>
 
 <!-- <div align="center">
-<a href="https://www.credly.com/earner/earned/badge/9fcc65c3-0aa6-4eca-a161-eafcbb7f02fb">
+<a href="https://www.credly.com/badges/9fcc65c3-0aa6-4eca-a161-eafcbb7f02fb">
   <img src="./aws-certified-sysops-administrator-associate.png" alt="AWS Certified SysOps Administrator Associate" width="100" height="100">
 </a>
 </div> -->
