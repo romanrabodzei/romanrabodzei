@@ -25,6 +25,8 @@ Reliable IT Engineer with over 16 years of experience managing on-premise and cl
 <img src="./azure-network-engineer-associate.png" alt="Azure Network Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/9D7DF5C09F3B647C?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/C1E9CFDD8F78D793?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./azure-ai-engineer-associate.png" alt="Azure AI Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/82A596ACA31366A7?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-security-engineer-associate.png" alt="Azure Security Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/F7D70FE59B762680?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
