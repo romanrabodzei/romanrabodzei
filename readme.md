@@ -59,7 +59,7 @@ Reliable IT Engineer with over 17 years of experience managing on-premise and cl
 <a href="https://www.credly.com/badges/a6af1bae-c7ff-4440-959d-faa8e90d6ec3" style="margin-right: 20px;">
 <img src="./ckad-certified-kubernetes-application-developer.png" alt="CKAD" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/bc980418-7b86-4262-9d6c-f1ffb68e81be" style="margin-right: 20px;">
-<img src="./cks-certified-kubernetes-security-specialist.png" alt="CKS" width="100" height="100"></a>
+<img src="./cks-certified-kubernetes-security-specialist.png" alt="CKS" width="95" height="95"></a>
 </div>
 
 <!-- <div align="center">
