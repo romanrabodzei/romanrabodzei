@@ -41,10 +41,12 @@ Reliable IT Engineer with over 17 years of experience managing on-premise and cl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/8932b5c9-712d-4c55-943b-801e9509928a" style="margin-right: 20px;">
 <img src="./github-foundations.png" alt="GitHub Foundations" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/a1441f60-5e8f-4a3a-b621-13928524a993" style="margin-right: 20px;">
-<img src="./github-actions.png" alt="GitHub Actions" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/69e9bac6-dff2-4748-aee6-ce89a05589ab" style="margin-right: 20px;">
 <img src="./github-administration.png" alt="GitHub Administration" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/a1441f60-5e8f-4a3a-b621-13928524a993" style="margin-right: 20px;">
+<img src="./github-actions.png" alt="GitHub Actions" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/C519684A242ECCD1?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./github-copilot.png" alt="GitHub Copilot" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/734b474d-3e13-4595-b1ba-4395056e9902/public_url" style="margin-right: 20px;">
 <img src="github-advanced-security.png" alt="GitHub Advanced Security" width="100" height="100"></a>
 </div>
