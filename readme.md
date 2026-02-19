@@ -36,8 +36,8 @@ Reliable IT Engineer with over 17 years of experience managing on-premise and cl
 </div>
 
 <div align="center">
-<a href="https://www.credly.com/badges/59919c2a-362e-40e6-9b17-727ae7127c17" style="margin-right: 20px;">
-<img src="./hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/ba5079d6-5069-433c-98c3-65caaaace2bd" style="margin-right: 20px;">
+<img src="./hashicorp-certified-terraform-associate.png" alt="HashiCorp Certified: Terraform Associate" width="100" height="100"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/8932b5c9-712d-4c55-943b-801e9509928a" style="margin-right: 20px;">
 <img src="./github-foundations.png" alt="GitHub Foundations" width="100" height="100"></a>
