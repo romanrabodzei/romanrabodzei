@@ -38,6 +38,8 @@ Principal Azure Cloud & DevOps Engineer with over 18 years of experience managin
 <img src="./azure-ai-engineer-associate.png" alt="Azure AI Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-ca/RomanRabodzei/36406E1AA9B5A843?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-ai-apps-and-agents-developer-associate.png" alt="Azure AI Apps and Agents Developer Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/RomanRabodzei/D1C06C2969A63F99?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./azure-ai-cloud-developer-associate.png" alt="Azure AI Cloud Developer Associate" width="100" height="100"></a>
 </div>
 
 <div align="center">
