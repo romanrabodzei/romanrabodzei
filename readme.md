@@ -25,12 +25,14 @@ Principal Azure Cloud & DevOps Engineer with over 18 years of experience managin
 <img src="./azure-network-engineer-associate.png" alt="Azure Network Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/9D7DF5C09F3B647C?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="100" height="100"></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/82A596ACA31366A7?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-security-engineer-associate.png" alt="Azure Security Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/F7D70FE59B762680?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-identity-and-access-administrator-associate.png" alt="Azure Identity and Access Administrator Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/31872132664101B9?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-security-operations-analyst-associate.png" alt="Azure Security Operations Analyst Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/82A596ACA31366A7?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./azure-security-engineer-associate.png" alt="Azure Security Engineer Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/RomanRabodzei/39463D5C7F7763E5?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./azure-cloud-and-ai-security-engineer-associate.png" alt="Cloud and AI Security Engineer Associate" width="100" height="100"></a>
 </div>
 
 <div align="center">
@@ -40,8 +42,8 @@ Principal Azure Cloud & DevOps Engineer with over 18 years of experience managin
 <img src="./azure-ai-apps-and-agents-developer-associate.png" alt="Azure AI Apps and Agents Developer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/RomanRabodzei/D1C06C2969A63F99?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
 <img src="./azure-ai-cloud-developer-associate.png" alt="Azure AI Cloud Developer Associate" width="100" height="100"></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/RomanRabodzei/39463D5C7F7763E5?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
-<img src="./azure-cloud-and-ai-security-engineer-associate.png" alt="Cloud and AI Security Engineer Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/RomanRabodzei/35BE554A8CED0A35?sharingId=B3C1155BC65B52A1" style="margin-right: 20px;">
+<img src="./azure-machine-learning-operations-engineer-associate.png" alt="Machine Learning Operations Engineer Associate" width="100" height="100"></a>
 </div>
 
 <div align="center">
