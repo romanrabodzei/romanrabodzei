@@ -1,7 +1,20 @@
 ## About me
 
 <div style="text-align: justify;">
-Principal Azure Cloud & DevOps Engineer with over 18 years of experience managing secure on-premises and cloud infrastructure. Skilled in applying DevOps principles, Agile, and AI-assisted engineering to automate, monitor, and optimize enterprise-scale deployment processes. Experienced in designing AI-powered cloud operations using Azure AI, building cloud control planes across multi-tenant environments, and operating production-grade Kubernetes platforms. A meticulous and collaborative professional adept at working with cross-functional teams, effectively communicating with stakeholders, and delivering reliable solutions.
+<p>Hey there 👋 </p>
+<p> Let me introduce myself. I'm a cloud and platform engineer with 18+ years of experience
+  building, operating, and improving infrastructure — from traditional on-premises environments to modern Azure
+  and Kubernetes platforms.</p>
+<p>My work spans cloud architecture, DevOps, Kubernetes, Infrastructure as Code, security, and platform
+  engineering. I enjoy turning complex infrastructure and operational processes into secure, automated, and
+  observable platforms — from enterprise Azure environments and AKS platforms to CI/CD, GitOps, internal
+  engineering tools, and cloud operations.</p>
+<p>More recently, I've been extending that experience into AI-powered cloud operations and AI platform
+  engineering, working with Azure AI, LLMs, MCP, and agentic systems. I'm particularly interested in where cloud
+  infrastructure, security, automation, and AI meet — and how AI can become a useful and secure part of the
+  engineering platform rather than just another application running on it.</p>
+<p>I'm always exploring what's next, experimenting with new technologies, and looking for better ways to build
+  things.</p>
 </div>
 
 ## Licenses & certifications
